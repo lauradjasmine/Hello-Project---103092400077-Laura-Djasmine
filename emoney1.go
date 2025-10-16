@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const maxAkun = 100
+const maxAkun = 100 // maksimal akun yang bisa dimasukkan
 const maxTransaksi = 1000
 
 type Akun struct {
